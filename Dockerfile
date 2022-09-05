@@ -1,6 +1,5 @@
 # syntax=docker/dockerfile:1
-# webhook test1git 
-# webhook testcase
+# webhook test1git
 FROM node:12-alpine
 RUN apk add --no-cache python2 g++ make
 WORKDIR /app
