@@ -1,7 +1,6 @@
 # syntax=docker/dockerfile:1
 # webhook test1git
-# llssjk
-FRO
+# wehooka sdkfjsoifkjw
 RUN apk add --no-cache python2 g++ make
 WORKDIR /app
 COPY . .
