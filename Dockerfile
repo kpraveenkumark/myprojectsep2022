@@ -1,5 +1,4 @@
 # syntax=docker/dockerfile:1
-#ljkslfjflnsofsfo
 FROM node:12-alpine
 RUN apk add --no-cache python2 g++ make
 WORKDIR /app
